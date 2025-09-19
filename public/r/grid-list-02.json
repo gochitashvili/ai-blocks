@@ -4,7 +4,7 @@
   "type": "registry:block",
   "title": "Link cards",
   "description": "A link cards block.",
-  "author": "ephraim duncan <https://ephraimduncan.com>",
+  "author": "Gochitashvili",
   "registryDependencies": [
     "avatar",
     "card"

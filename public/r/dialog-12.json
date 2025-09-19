@@ -4,7 +4,7 @@
   "type": "registry:block",
   "title": "Dialog with avatar upload",
   "description": "A dialog with avatar upload block.",
-  "author": "ephraim duncan <https://ephraimduncan.com>",
+  "author": "Gochitashvili",
   "registryDependencies": [
     "avatar",
     "button",

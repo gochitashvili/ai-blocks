@@ -4,7 +4,7 @@
   "type": "registry:block",
   "title": "Simple Card Signup Form",
   "description": "A simple card signup form block.",
-  "author": "ephraim duncan <https://ephraimduncan.com>",
+  "author": "Gochitashvili",
   "registryDependencies": [
     "button",
     "card",

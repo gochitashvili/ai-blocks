@@ -4,7 +4,7 @@
   "type": "registry:block",
   "title": "Simple Email/Password Login",
   "description": "A simple email/password login block.",
-  "author": "ephraim duncan <https://ephraimduncan.com>",
+  "author": "Gochitashvili",
   "registryDependencies": [
     "button",
     "input",
