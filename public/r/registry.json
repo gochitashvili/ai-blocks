@@ -9,14 +9,8 @@
       "title": "Ai 01",
       "description": "A ai 01 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dropdown-menu",
-        "textarea"
-      ],
-      "dependencies": [
-        "@tabler/icons-react"
-      ],
+      "registryDependencies": ["button", "dropdown-menu", "textarea"],
+      "dependencies": ["@tabler/icons-react"],
       "files": [
         {
           "path": "content/components/ai/ai-01.tsx",
@@ -32,14 +26,8 @@
       "title": "Ai 02",
       "description": "A ai 02 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "select",
-        "textarea"
-      ],
-      "dependencies": [
-        "@tabler/icons-react"
-      ],
+      "registryDependencies": ["button", "select", "textarea"],
+      "dependencies": ["@tabler/icons-react"],
       "files": [
         {
           "path": "content/components/ai/ai-02.tsx",
@@ -55,14 +43,8 @@
       "title": "Ai 03",
       "description": "A ai 03 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dropdown-menu",
-        "textarea"
-      ],
-      "dependencies": [
-        "@tabler/icons-react"
-      ],
+      "registryDependencies": ["button", "dropdown-menu", "textarea"],
+      "dependencies": ["@tabler/icons-react"],
       "files": [
         {
           "path": "content/components/ai/ai-03.tsx",
@@ -86,9 +68,7 @@
         "switch",
         "textarea"
       ],
-      "dependencies": [
-        "@tabler/icons-react"
-      ],
+      "dependencies": ["@tabler/icons-react"],
       "files": [
         {
           "path": "content/components/ai/ai-04.tsx",
@@ -104,13 +84,8 @@
       "title": "Dialog 01",
       "description": "A dialog 01 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dialog"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "dialog"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-01.tsx",
@@ -126,13 +101,8 @@
       "title": "Dialog 02",
       "description": "A dialog 02 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dialog"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "dialog"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-02.tsx",
@@ -148,13 +118,8 @@
       "title": "Dialog 03",
       "description": "A dialog 03 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dialog"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "dialog"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-03.tsx",
@@ -170,12 +135,7 @@
       "title": "Dialog 04",
       "description": "A dialog 04 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dialog",
-        "input",
-        "label"
-      ],
+      "registryDependencies": ["button", "dialog", "input", "label"],
       "dependencies": [],
       "files": [
         {
@@ -192,15 +152,8 @@
       "title": "Dialog 05",
       "description": "A dialog 05 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dialog",
-        "input",
-        "label"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "dialog", "input", "label"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-05.tsx",
@@ -216,13 +169,7 @@
       "title": "Dialog 06",
       "description": "A dialog 06 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dialog",
-        "input",
-        "label",
-        "switch"
-      ],
+      "registryDependencies": ["button", "dialog", "input", "label", "switch"],
       "dependencies": [],
       "files": [
         {
@@ -239,15 +186,8 @@
       "title": "Dialog 07",
       "description": "A dialog 07 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "dialog",
-        "input",
-        "label"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "dialog", "input", "label"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-07.tsx",
@@ -263,16 +203,8 @@
       "title": "Dialog 08",
       "description": "A dialog 08 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "avatar",
-        "badge",
-        "button",
-        "dialog",
-        "input"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["avatar", "badge", "button", "dialog", "input"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-08.tsx",
@@ -296,9 +228,7 @@
         "switch",
         "tooltip"
       ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-09.tsx",
@@ -324,10 +254,7 @@
         "select",
         "textarea"
       ],
-      "dependencies": [
-        "date-fns",
-        "lucide-react"
-      ],
+      "dependencies": ["date-fns", "lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-10.tsx",
@@ -350,9 +277,7 @@
         "select",
         "separator"
       ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-11.tsx",
@@ -368,16 +293,8 @@
       "title": "Dialog 12",
       "description": "A dialog 12 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "avatar",
-        "button",
-        "dialog",
-        "input",
-        "label"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["avatar", "button", "dialog", "input", "label"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/dialogs/dialog-12.tsx",
@@ -401,9 +318,7 @@
         "select",
         "tooltip"
       ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/file-upload/file-upload-01/dropzone.tsx",
@@ -451,9 +366,7 @@
         "select",
         "tooltip"
       ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/file-upload/file-upload-01.tsx",
@@ -469,12 +382,7 @@
       "title": "File Upload 02",
       "description": "A file upload 02 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "input",
-        "label"
-      ],
+      "registryDependencies": ["button", "card", "input", "label"],
       "dependencies": [],
       "files": [
         {
@@ -499,10 +407,7 @@
         "select",
         "separator"
       ],
-      "dependencies": [
-        "lucide-react",
-        "react-dropzone"
-      ],
+      "dependencies": ["lucide-react", "react-dropzone"],
       "files": [
         {
           "path": "content/components/file-upload/file-upload-03.tsx",
@@ -518,15 +423,8 @@
       "title": "File Upload 04",
       "description": "A file upload 04 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "progress"
-      ],
-      "dependencies": [
-        "lucide-react",
-        "sonner"
-      ],
+      "registryDependencies": ["button", "card", "progress"],
+      "dependencies": ["lucide-react", "sonner"],
       "files": [
         {
           "path": "content/components/file-upload/file-upload-04.tsx",
@@ -542,13 +440,8 @@
       "title": "File Upload 05",
       "description": "A file upload 05 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "label"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "label"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/file-upload/file-upload-05.tsx",
@@ -564,15 +457,8 @@
       "title": "File Upload 06",
       "description": "A file upload 06 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "progress",
-        "separator"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "card", "progress", "separator"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/file-upload/file-upload-06.tsx",
@@ -588,12 +474,7 @@
       "title": "Form Layout 01",
       "description": "A form layout 01 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "input",
-        "label",
-        "separator"
-      ],
+      "registryDependencies": ["button", "input", "label", "separator"],
       "dependencies": [],
       "files": [
         {
@@ -694,9 +575,7 @@
         "select",
         "separator"
       ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/form-layout/form-layout-05.tsx",
@@ -712,14 +591,8 @@
       "title": "Grid List 01",
       "description": "A grid list 01 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "dropdown-menu"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "card", "dropdown-menu"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/grid-list/grid-list-01.tsx",
@@ -735,10 +608,7 @@
       "title": "Grid List 02",
       "description": "A grid list 02 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "avatar",
-        "card"
-      ],
+      "registryDependencies": ["avatar", "card"],
       "dependencies": [],
       "files": [
         {
@@ -755,12 +625,8 @@
       "title": "Grid List 03",
       "description": "A grid list 03 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["card"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/grid-list/grid-list-03.tsx",
@@ -776,12 +642,7 @@
       "title": "Login 01",
       "description": "A login 01 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "input",
-        "label",
-        "separator"
-      ],
+      "registryDependencies": ["button", "input", "label", "separator"],
       "dependencies": [],
       "files": [
         {
@@ -798,12 +659,7 @@
       "title": "Login 02",
       "description": "A login 02 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "input",
-        "label",
-        "separator"
-      ],
+      "registryDependencies": ["button", "input", "label", "separator"],
       "dependencies": [],
       "files": [
         {
@@ -820,11 +676,7 @@
       "title": "Login 03",
       "description": "A login 03 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "input",
-        "label"
-      ],
+      "registryDependencies": ["button", "input", "label"],
       "dependencies": [],
       "files": [
         {
@@ -841,12 +693,7 @@
       "title": "Login 04",
       "description": "A login 04 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "input",
-        "label",
-        "separator"
-      ],
+      "registryDependencies": ["button", "input", "label", "separator"],
       "dependencies": [],
       "files": [
         {
@@ -863,13 +710,7 @@
       "title": "Login 05",
       "description": "A login 05 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "checkbox",
-        "input",
-        "label"
-      ],
+      "registryDependencies": ["button", "card", "checkbox", "input", "label"],
       "dependencies": [],
       "files": [
         {
@@ -886,12 +727,7 @@
       "title": "Login 06",
       "description": "A login 06 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "input",
-        "separator"
-      ],
+      "registryDependencies": ["button", "card", "input", "separator"],
       "dependencies": [],
       "files": [
         {
@@ -915,9 +751,7 @@
         "label",
         "separator"
       ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/login/login-07.tsx",
@@ -933,16 +767,8 @@
       "title": "Login 08",
       "description": "A login 08 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "checkbox",
-        "input",
-        "label"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "card", "checkbox", "input", "label"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/login/login-08.tsx",
@@ -966,9 +792,7 @@
         "label",
         "select"
       ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/login/login-09.tsx",
@@ -993,10 +817,7 @@
         "sidebar",
         "tooltip"
       ],
-      "dependencies": [
-        "@tabler/icons-react",
-        "lucide-react"
-      ],
+      "dependencies": ["@tabler/icons-react", "lucide-react"],
       "files": [
         {
           "path": "content/components/sidebar/sidebar-01/app-sidebar.tsx",
@@ -1055,10 +876,7 @@
         "dropdown-menu",
         "sidebar"
       ],
-      "dependencies": [
-        "framer-motion",
-        "lucide-react"
-      ],
+      "dependencies": ["framer-motion", "lucide-react"],
       "files": [
         {
           "path": "content/components/sidebar/sidebar-02/app-sidebar.tsx",
@@ -1111,10 +929,7 @@
         "dropdown-menu",
         "sidebar"
       ],
-      "dependencies": [
-        "framer-motion",
-        "lucide-react"
-      ],
+      "dependencies": ["framer-motion", "lucide-react"],
       "files": [
         {
           "path": "content/components/sidebar/sidebar-03/app-sidebar.tsx",
@@ -1160,21 +975,30 @@
       "title": "Double Sided Sidebar",
       "description": "A double sided sidebar block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "avatar",
-        "dropdown-menu",
-        "sidebar"
-      ],
+      "registryDependencies": ["avatar", "dropdown-menu", "sidebar"],
       "dependencies": [
         "@tabler/icons-react",
-        "lucide-react"
+        "class-variance-authority",
+        "lucide-react",
+        "radix-ui"
       ],
+      "cssVars": {
+        "theme": {
+          "font-heading": "Poppins, sans-serif"
+        },
+        "light": {
+          "brand": "20 14.3% 4.1%"
+        },
+        "dark": {
+          "brand": "20 14.3% 4.1%"
+        }
+      },
       "files": [
         {
           "path": "content/components/sidebar/sidebar-04/app/page.tsx",
           "type": "registry:page",
           "target": "app/page.tsx",
-          "content": "\"use client\";\n\nimport { SidebarInset, SidebarProvider } from \"@/components/ui/sidebar\";\nimport { AppSidebar } from \"@/components/app-sidebar\";\nimport { MailProvider, useMail } from \"@/components/mail-context\";\n\nfunction MailPreview() {\n  const { selectedMail } = useMail();\n  if (!selectedMail) {\n    return (\n      <div className=\"flex h-full items-center justify-center text-sm text-muted-foreground\">\n        Select an email to preview\n      </div>\n    );\n  }\n  return (\n    <div className=\"flex h-full flex-col\">\n      <div className=\"border-b p-4\">\n        <div className=\"text-lg font-semibold\">{selectedMail.subject}</div>\n        <div className=\"text-sm text-muted-foreground\">\n          From: {selectedMail.name} ({selectedMail.email})\n        </div>\n      </div>\n      <div className=\"p-4 text-sm whitespace-pre-wrap\">{`${selectedMail.teaser}\\n\\nThis is a sample message body for the selected email.\\nIt demonstrates the preview area on the right side.`}</div>\n    </div>\n  );\n}\n\nexport default function Page() {\n  return (\n    <SidebarProvider>\n      <MailProvider>\n        <div className=\"flex h-screen w-full\">\n          <AppSidebar />\n          <SidebarInset>\n            <div className=\"flex-1 rounded-xl border m-2\">\n              <MailPreview />\n            </div>\n          </SidebarInset>\n        </div>\n      </MailProvider>\n    </SidebarProvider>\n  );\n}\n"
+          "content": "\"use client\";\n\nimport { SidebarInset, SidebarProvider } from \"@/components/ui/sidebar\";\nimport { AppSidebar } from \"@/components/app-sidebar\";\nimport { MailProvider, useMail } from \"@/components/mail-context\";\nimport { Button } from \"@/components/ui/button\";\n\nfunction MailPreview() {\n  const { selectedMail } = useMail();\n  if (!selectedMail) {\n    return (\n      <div className=\"flex h-full items-center justify-center text-sm text-muted-foreground\">\n        Select an email to preview\n        <Button>Click me</Button>\n      </div>\n    );\n  }\n  return (\n    <div className=\"flex h-full flex-col\">\n      <div className=\"border-b p-4\">\n        <div className=\"text-lg font-semibold\">{selectedMail.subject}</div>\n        <div className=\"text-sm text-muted-foreground\">\n          From: {selectedMail.name} ({selectedMail.email})\n        </div>\n      </div>\n      <div className=\"p-4 text-sm whitespace-pre-wrap\">{`${selectedMail.teaser}\\n\\nThis is a sample message body for the selected email.\\nIt demonstrates the preview area on the right side.`}</div>\n    </div>\n  );\n}\n\nexport default function Page() {\n  return (\n    <SidebarProvider>\n      <MailProvider>\n        <div className=\"flex h-screen w-full\">\n          <AppSidebar />\n          <SidebarInset>\n            <div className=\"flex-1 rounded-xl border m-2\">\n              <MailPreview />\n            </div>\n          </SidebarInset>\n        </div>\n      </MailProvider>\n    </SidebarProvider>\n  );\n}\n"
         },
         {
           "path": "content/components/sidebar/sidebar-04/app-sidebar.tsx",
@@ -1193,11 +1017,15 @@
           "type": "registry:component",
           "target": "components/nav-user.tsx",
           "content": "\"use client\";\n\nimport {\n  BadgeCheck,\n  Bell,\n  ChevronsUpDown,\n  CreditCard,\n  LogOut,\n  Sparkles,\n} from \"lucide-react\";\n\nimport { Avatar, AvatarFallback, AvatarImage } from \"@/components/ui/avatar\";\nimport {\n  DropdownMenu,\n  DropdownMenuContent,\n  DropdownMenuGroup,\n  DropdownMenuItem,\n  DropdownMenuLabel,\n  DropdownMenuSeparator,\n  DropdownMenuTrigger,\n} from \"@/components/ui/dropdown-menu\";\nimport {\n  SidebarMenu,\n  SidebarMenuButton,\n  SidebarMenuItem,\n  useSidebar,\n} from \"@/components/ui/sidebar\";\n\nexport function NavUser({\n  user,\n}: {\n  user: {\n    name: string;\n    email: string;\n    avatar: string;\n  };\n}) {\n  const { isMobile } = useSidebar();\n\n  return (\n    <SidebarMenu>\n      <SidebarMenuItem>\n        <DropdownMenu>\n          <DropdownMenuTrigger asChild>\n            <SidebarMenuButton\n              size=\"lg\"\n              className=\"data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground md:h-8 md:p-0\"\n            >\n              <Avatar className=\"h-8 w-8 rounded-lg\">\n                <AvatarImage src={user.avatar} alt={user.name} />\n                <AvatarFallback className=\"rounded-lg\">CN</AvatarFallback>\n              </Avatar>\n              <div className=\"grid flex-1 text-left text-sm leading-tight\">\n                <span className=\"truncate font-medium\">{user.name}</span>\n                <span className=\"truncate text-xs\">{user.email}</span>\n              </div>\n              <ChevronsUpDown className=\"ml-auto size-4\" />\n            </SidebarMenuButton>\n          </DropdownMenuTrigger>\n          <DropdownMenuContent\n            className=\"w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg\"\n            side={isMobile ? \"bottom\" : \"right\"}\n            align=\"end\"\n            sideOffset={4}\n          >\n            <DropdownMenuLabel className=\"p-0 font-normal\">\n              <div className=\"flex items-center gap-2 px-1 py-1.5 text-left text-sm\">\n                <Avatar className=\"h-8 w-8 rounded-lg\">\n                  <AvatarImage src={user.avatar} alt={user.name} />\n                  <AvatarFallback className=\"rounded-lg\">CN</AvatarFallback>\n                </Avatar>\n                <div className=\"grid flex-1 text-left text-sm leading-tight\">\n                  <span className=\"truncate font-medium\">{user.name}</span>\n                  <span className=\"truncate text-xs\">{user.email}</span>\n                </div>\n              </div>\n            </DropdownMenuLabel>\n            <DropdownMenuSeparator />\n            <DropdownMenuGroup>\n              <DropdownMenuItem>\n                <Sparkles />\n                Upgrade to Pro\n              </DropdownMenuItem>\n            </DropdownMenuGroup>\n            <DropdownMenuSeparator />\n            <DropdownMenuGroup>\n              <DropdownMenuItem>\n                <BadgeCheck />\n                Account\n              </DropdownMenuItem>\n              <DropdownMenuItem>\n                <CreditCard />\n                Billing\n              </DropdownMenuItem>\n              <DropdownMenuItem>\n                <Bell />\n                Notifications\n              </DropdownMenuItem>\n            </DropdownMenuGroup>\n            <DropdownMenuSeparator />\n            <DropdownMenuItem>\n              <LogOut />\n              Log out\n            </DropdownMenuItem>\n          </DropdownMenuContent>\n        </DropdownMenu>\n      </SidebarMenuItem>\n    </SidebarMenu>\n  );\n}\n"
+        },
+        {
+          "path": "content/components/sidebar/sidebar-04/ui/button.tsx",
+          "type": "registry:component",
+          "target": "components/ui/button.tsx",
+          "content": "import * as React from \"react\";\nimport { Slot as SlotPrimitive } from \"radix-ui\";\nimport { cva, type VariantProps } from \"class-variance-authority\";\n\nimport { cn } from \"@/lib/utils\";\n\nconst buttonVariants = cva(\n  \"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive\",\n  {\n    variants: {\n      variant: {\n        default:\n          \"bg-primary text-primary-foreground shadow-xs hover:bg-primary/90\",\n        destructive:\n          \"bg-destructive text-white shadow-xs hover:bg-destructive/90 focus-visible:ring-destructive/20 dark:focus-visible:ring-destructive/40 dark:bg-destructive/60\",\n        outline:\n          \"border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50\",\n        secondary:\n          \"bg-secondary text-secondary-foreground shadow-xs hover:bg-secondary/80\",\n        ghost:\n          \"hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50\",\n        link: \"text-primary underline-offset-4 hover:underline\",\n      },\n      size: {\n        default: \"h-9 px-4 py-2 has-[>svg]:px-3\",\n        sm: \"h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5\",\n        lg: \"h-10 rounded-md px-6 has-[>svg]:px-4\",\n        icon: \"size-9\",\n      },\n    },\n    defaultVariants: {\n      variant: \"default\",\n      size: \"default\",\n    },\n  }\n);\n\nfunction Button({\n  className,\n  variant,\n  size,\n  asChild = false,\n  ...props\n}: React.ComponentProps<\"button\"> &\n  VariantProps<typeof buttonVariants> & {\n    asChild?: boolean;\n  }) {\n  const Comp = asChild ? SlotPrimitive.Slot : \"button\";\n\n  return (\n    <Comp\n      data-slot=\"button\"\n      className={cn(buttonVariants({ variant, size, className }))}\n      {...props}\n    />\n  );\n}\n\nexport { Button, buttonVariants };\n"
         }
       ],
-      "categories": [
-        "sidebar"
-      ]
+      "categories": ["sidebar"]
     },
     {
       "name": "sidebar-05",
@@ -1205,15 +1033,8 @@
       "title": "Sidebar 05",
       "description": "A sidebar 05 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "avatar",
-        "dropdown-menu",
-        "sidebar"
-      ],
-      "dependencies": [
-        "@tabler/icons-react",
-        "lucide-react"
-      ],
+      "registryDependencies": ["avatar", "dropdown-menu", "sidebar"],
+      "dependencies": ["@tabler/icons-react", "lucide-react"],
       "files": [
         {
           "path": "content/components/sidebar/sidebar-05/app/page.tsx",
@@ -1241,15 +1062,8 @@
       "title": "Sidebar 06",
       "description": "A sidebar 06 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "avatar",
-        "dropdown-menu",
-        "sidebar"
-      ],
-      "dependencies": [
-        "@tabler/icons-react",
-        "lucide-react"
-      ],
+      "registryDependencies": ["avatar", "dropdown-menu", "sidebar"],
+      "dependencies": ["@tabler/icons-react", "lucide-react"],
       "files": [
         {
           "path": "content/components/sidebar/sidebar-06/app/page.tsx",
@@ -1277,9 +1091,7 @@
       "title": "Stats 01",
       "description": "A stats 01 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card"
-      ],
+      "registryDependencies": ["card"],
       "dependencies": [],
       "files": [
         {
@@ -1296,13 +1108,8 @@
       "title": "Stats 02",
       "description": "A stats 02 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "badge",
-        "card"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["badge", "card"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/stats/stats-02.tsx",
@@ -1318,9 +1125,7 @@
       "title": "Stats 03",
       "description": "A stats 03 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card"
-      ],
+      "registryDependencies": ["card"],
       "dependencies": [],
       "files": [
         {
@@ -1337,13 +1142,8 @@
       "title": "Stats 04",
       "description": "A stats 04 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "badge",
-        "card"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["badge", "card"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/stats/stats-04.tsx",
@@ -1359,9 +1159,7 @@
       "title": "Stats 05",
       "description": "A stats 05 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card"
-      ],
+      "registryDependencies": ["card"],
       "dependencies": [],
       "files": [
         {
@@ -1378,12 +1176,8 @@
       "title": "Stats 06",
       "description": "A stats 06 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["card"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/stats/stats-06.tsx",
@@ -1399,14 +1193,8 @@
       "title": "Stats 07",
       "description": "A stats 07 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card",
-        "chart"
-      ],
-      "dependencies": [
-        "lucide-react",
-        "recharts"
-      ],
+      "registryDependencies": ["card", "chart"],
+      "dependencies": ["lucide-react", "recharts"],
       "files": [
         {
           "path": "content/components/stats/stats-07.tsx",
@@ -1422,13 +1210,8 @@
       "title": "Stats 08",
       "description": "A stats 08 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card",
-        "chart"
-      ],
-      "dependencies": [
-        "recharts"
-      ],
+      "registryDependencies": ["card", "chart"],
+      "dependencies": ["recharts"],
       "files": [
         {
           "path": "content/components/stats/stats-08.tsx",
@@ -1444,10 +1227,7 @@
       "title": "Stats 09",
       "description": "A stats 09 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card",
-        "progress"
-      ],
+      "registryDependencies": ["card", "progress"],
       "dependencies": [],
       "files": [
         {
@@ -1464,13 +1244,8 @@
       "title": "Stats 10",
       "description": "A stats 10 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "card",
-        "chart"
-      ],
-      "dependencies": [
-        "recharts"
-      ],
+      "registryDependencies": ["card", "chart"],
+      "dependencies": ["recharts"],
       "files": [
         {
           "path": "content/components/stats/stats-10.tsx",
@@ -1486,16 +1261,8 @@
       "title": "Stats 11",
       "description": "A stats 11 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "dialog",
-        "input",
-        "label"
-      ],
-      "dependencies": [
-        "lucide-react"
-      ],
+      "registryDependencies": ["button", "card", "dialog", "input", "label"],
+      "dependencies": ["lucide-react"],
       "files": [
         {
           "path": "content/components/stats/stats-11.tsx",
@@ -1511,14 +1278,8 @@
       "title": "Stats 12",
       "description": "A stats 12 block.",
       "author": "Gochitashvili",
-      "registryDependencies": [
-        "button",
-        "card",
-        "chart"
-      ],
-      "dependencies": [
-        "recharts"
-      ],
+      "registryDependencies": ["button", "card", "chart"],
+      "dependencies": ["recharts"],
       "files": [
         {
           "path": "content/components/stats/stats-12.tsx",

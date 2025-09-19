@@ -3,6 +3,7 @@
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
 import { AppSidebar } from "../app-sidebar";
 import { MailProvider, useMail } from "../mail-context";
+import { Button } from "../ui/button";
 
 function MailPreview() {
   const { selectedMail } = useMail();
@@ -10,6 +11,7 @@ function MailPreview() {
     return (
       <div className="flex h-full items-center justify-center text-sm text-muted-foreground">
         Select an email to preview
+        <Button>Click me</Button>
       </div>
     );
   }
