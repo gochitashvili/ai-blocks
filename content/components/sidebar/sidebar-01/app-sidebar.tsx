@@ -22,7 +22,7 @@ import type { SidebarData } from "./types";
 const data: SidebarData = {
   user: {
     name: "ephraim",
-    email: "ephraim@blocks.so",
+    email: "ephraim@ai-blocks-beta.vercel.app",
     avatar: "/avatar-01.png",
   },
   navMain: [

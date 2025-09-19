@@ -4,4 +4,4 @@ Disallow: /private/
 Disallow: /blocks/preview/
 Disallow: /demo/
 
-Sitemap: https://blocks.so/sitemap.xml
+Sitemap: https://ai-blocks-beta.vercel.app/sitemap.xml

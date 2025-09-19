@@ -44,7 +44,7 @@ export default function Dialog08() {
               id="email"
               name="email"
               type="email"
-              placeholder="ephraim@blocks.so"
+              placeholder="ephraim@ai-blocks-beta.vercel.app"
               className="mt-2"
               disabled
             />

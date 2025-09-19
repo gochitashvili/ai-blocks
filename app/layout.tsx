@@ -20,10 +20,10 @@ const fontMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
-  applicationName: "blocks.so",
+  applicationName: "ai-blocks-beta.vercel.app",
   title: {
-    default: "blocks.so — Building Blocks for the Web",
-    template: "%s — blocks.so",
+    default: "ai-blocks-beta.vercel.app — Building Blocks for the Web",
+    template: "%s — ai-blocks-beta.vercel.app",
   },
   description: siteConfig.description,
   keywords: [
@@ -52,14 +52,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: siteConfig.url,
-    title: "blocks.so — Building Blocks for the Web",
+    title: "ai-blocks-beta.vercel.app — Building Blocks for the Web",
     description: siteConfig.description,
-    siteName: "blocks.so",
+    siteName: "ai-blocks-beta.vercel.app",
     images: [siteConfig.ogImage],
   },
   twitter: {
     card: "summary_large_image",
-    title: "blocks.so — Building Blocks for the Web",
+    title: "ai-blocks-beta.vercel.app — Building Blocks for the Web",
     description: siteConfig.description,
     creator: "@ephraimduncan_",
     images: [siteConfig.ogImage],

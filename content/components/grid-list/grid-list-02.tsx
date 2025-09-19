@@ -6,25 +6,25 @@ const people = [
     name: "Timur Ercan",
     email: "timur@documenso.com",
     role: "Co-Founder / CEO",
-    imageUrl: "https://blocks.so/avatar-02.png",
+    imageUrl: "https://ai-blocks-beta.vercel.app/avatar-02.png",
   },
   {
     name: "Lucas Smith",
     email: "lucas@documenso.com",
     role: "Co-Founder / CTO",
-    imageUrl: "https://blocks.so/avatar-03.png",
+    imageUrl: "https://ai-blocks-beta.vercel.app/avatar-03.png",
   },
   {
     name: "Ephraim Duncan",
     email: "ephraim@documenso.com",
     role: "Software Engineer",
-    imageUrl: "https://blocks.so/avatar-01.png",
+    imageUrl: "https://ai-blocks-beta.vercel.app/avatar-01.png",
   },
   {
     name: "Catalin Pit",
     email: "catalin@documenso.com",
     role: "Software Engineer",
-    imageUrl: "https://blocks.so/avatar-04.png",
+    imageUrl: "https://ai-blocks-beta.vercel.app/avatar-04.png",
   },
 ];
 

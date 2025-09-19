@@ -58,7 +58,11 @@ export default function SignIn() {
         <CardContent className="space-y-6">
           <div className="space-y-2">
             <Label htmlFor="email">Email address</Label>
-            <Input id="email" type="email" placeholder="ephraim@blocks.so" />
+            <Input
+              id="email"
+              type="email"
+              placeholder="ephraim@ai-blocks-beta.vercel.app"
+            />
           </div>
           <div className="space-y-0">
             <div className="flex items-center justify-between mb-2">

@@ -37,7 +37,7 @@ export function Form() {
                 <SelectItem value="1">
                   <img
                     className="size-5 rounded"
-                    src="https://blocks.so/avatar-01.png"
+                    src="https://ai-blocks-beta.vercel.app/avatar-01.png"
                     alt="Ephraim Duncan"
                     width={20}
                     height={20}
@@ -47,7 +47,7 @@ export function Form() {
                 <SelectItem value="2">
                   <img
                     className="size-5 rounded"
-                    src="https://blocks.so/avatar-03.png"
+                    src="https://ai-blocks-beta.vercel.app/avatar-03.png"
                     alt="Lucas Smith"
                     width={20}
                     height={20}
@@ -57,7 +57,7 @@ export function Form() {
                 <SelectItem value="3">
                   <img
                     className="size-5 rounded"
-                    src="https://blocks.so/avatar-02.jpg"
+                    src="https://ai-blocks-beta.vercel.app/avatar-02.jpg"
                     alt="Timur Ercan"
                     width={20}
                     height={20}

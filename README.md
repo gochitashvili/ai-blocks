@@ -11,7 +11,7 @@ To use blocks from this registry, configure your `components.json` file with the
 ```json
 {
   "registries": {
-    "@blocks": "https://blocks.so/r/{name}.json"
+    "@blocks": "https://ai-blocks-beta.vercel.app/r/{name}.json"
   }
 }
 ```
@@ -33,10 +33,10 @@ Alternatively, you can add blocks directly from the registry:
 
 ```bash
 # Using the direct registry URL
-npx shadcn@latest add https://blocks.so/r/login-01.json
+npx shadcn@latest add https://ai-blocks-beta.vercel.app/r/login-01.json
 ```
 
-Visit [blocks.so](https://blocks.so) to view the full documentation and browse all available blocks with live previews.
+Visit [ai-blocks-beta.vercel.app](https://ai-blocks-beta.vercel.app) to view the full documentation and browse all available blocks with live previews.
 
 ## Contributing
 

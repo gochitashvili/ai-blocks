@@ -73,7 +73,7 @@ export default function Login05() {
                   id="email-login-05"
                   name="email-login-05"
                   autoComplete="email-login-05"
-                  placeholder="ephraim@blocks.so"
+                  placeholder="ephraim@ai-blocks-beta.vercel.app"
                   className="mt-2"
                 />
               </div>

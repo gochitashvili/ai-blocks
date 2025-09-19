@@ -28,7 +28,7 @@ export default function Login03() {
                 id="email-login-03"
                 name="email-login-03"
                 autoComplete="email"
-                placeholder="ephraim@blocks.so"
+                placeholder="ephraim@ai-blocks-beta.vercel.app"
                 className="mt-2"
               />
             </div>

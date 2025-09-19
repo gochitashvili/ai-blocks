@@ -36,5 +36,5 @@ export default async function BlockPreviewPage({ params }: Params) {
 
 export const metadata: Metadata = {
   robots: { index: false, follow: false },
-  title: "Blocks.so — Preview",
+  title: "ai-blocks-beta.vercel.app — Preview",
 };

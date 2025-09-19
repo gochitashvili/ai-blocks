@@ -109,6 +109,6 @@ export function RegistrySetup({
 }
 
 const registrySetupCode = `"registries": {
-  "@blocks": "https://blocks.so/r/{name}.json"
+  "@blocks": "https://ai-blocks-beta.vercel.app/r/{name}.json"
 }
 `;
