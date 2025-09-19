@@ -6,15 +6,15 @@ import { siteConfig } from "@/config";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
-import { DM_Sans, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono } from "next/font/google";
 
-const fontSans = DM_Sans({
-  variable: "--font-sans",
+const geistSans = Geist({
+  variable: "--font-geist-sans",
   subsets: ["latin"],
 });
 
-const fontMono = Geist_Mono({
-  variable: "--font-mono",
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
   subsets: ["latin"],
 });
 
@@ -36,11 +36,11 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Ephraim Duncan",
-      url: "https://ephraimduncan.com",
+      name: "Gocha Gochitashvili",
+      url: "https://ai-blocks-beta.vercel.app",
     },
   ],
-  creator: "Ephraim Duncan",
+  creator: "Gocha Gochitashvili",
   alternates: {
     canonical: "/",
   },
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "ai-blocks-beta.vercel.app — Building Blocks for the Web",
     description: siteConfig.description,
-    creator: "@ephraimduncan_",
+    creator: "@gochitashvili",
     images: [siteConfig.ogImage],
   },
   icons: {
@@ -78,7 +78,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={cn(fontSans.variable, fontMono.variable, "antialiased")}
+        className={cn(geistSans.variable, geistMono.variable, "antialiased")}
         suppressHydrationWarning
       >
         <ThemeProvider
@@ -91,7 +91,7 @@ export default function RootLayout({
 
           <TailwindIndicator />
           <Toaster />
-          <SeoJsonLd />
+          {/* <SeoJsonLd /> */}
         </ThemeProvider>
       </body>
     </html>
